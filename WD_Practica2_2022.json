@@ -36,12 +36,12 @@
     },
     {
         "id": 5,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Anna Aiguadé i Ariadna Gras",
+        "titulo": "Llibres Solidaris",
+        "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/clubdelectura.jpg?raw=true", 
+        "alt": "Dues persones llegint",
+        "texto": "Web de l'organització Llibres Solidaris on es mostren els llibres disponibles, les instal·lacions, les activitats...",
+        "url": "https://aryadna12.github.io/practica_2.github.io/LlibresSolidaris/"
     },
     {
         "id": 6,
