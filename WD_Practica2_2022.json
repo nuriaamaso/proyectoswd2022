@@ -81,12 +81,12 @@
     },
     {
         "id": 10,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Bernat Erta, Alex Cuellar i Eric Aparicio",
+        "titulo": "El Diari de Marilyn",
+        "srcimg": "https://raw.githubusercontent.com/ertamajo400/practica2web/main/img/marylin.f74fa3dc.jpg", 
+        "alt": "Marilyn sentada en uns dels seus viatges",
+        "texto": "Blog sobre els viatges de la Marilyn",
+        "url": "https://ertamajo400.github.io/practica2web/"
     },
     {
         "id": 11,
