@@ -72,12 +72,12 @@
     },
     {
         "id": 9,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Anna Guiu i Paula López",
+        "titulo": "Cadira EPS",
+        "srcimg": "https://github.com/anna2000guiu/webdinamiacapractica2/blob/main/img/exlogo4.ffb06e41.png", 
+        "alt": "Foto logo",
+        "texto": "Disseny i procés de creació de la cadira EPS",
+        "url": "https://anna2000guiu.github.io/webdinamiacapractica2/"
     },
     {
         "id": 10,
