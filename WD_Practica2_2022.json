@@ -99,12 +99,12 @@
     },
     {
         "id": 12,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Alex Fernandez Mateu",
+        "titulo": "Inauguració de La Maleta Creativa",
+        "srcimg": "https://scontent.fbcn3-1.fna.fbcdn.net/v/t1.6435-9/209558652_320166926321474_638564522575406157_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=bf543CeuSqoAX8IrapA&_nc_ht=scontent.fbcn3-1.fna&oh=00_AT8CwlsymBYZ4QaJiHI-yPbOJaFnRbqteeTXKjVK_RZyQg&oe=621B3344", 
+        "alt": "Maleta que representa un avatar de la nostra marca",
+        "texto": "Pàgina per a seguir l'estat del local de la maleta creativa",
+        "url": "https://inauguracio.lamaletacreativa.com"
     },
     {
         "id": 13,
