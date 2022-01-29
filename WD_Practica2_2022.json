@@ -54,12 +54,12 @@
     },
     {
         "id": 7,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Maria Campos y Marina Also",
+        "titulo": "Contempart",
+        "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/fotoportada.jpg", 
+        "alt": "Obra Yayoi Kusama",
+        "texto": "Web del Museo Contempart",
+        "url": "https://mariacampos7.github.io/practica2wd/dist/"
     },
     {
         "id": 8,
