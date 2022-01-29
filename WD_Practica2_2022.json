@@ -90,12 +90,12 @@
     },
     {
         "id": 11,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Sergi Martinez i Pol Gonzales",
+        "titulo": "Zoner",
+        "srcimg": "https://assets3.razerzone.com/6v1RVaYM7gImsVUwGP7AXb6YOcw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh78%2Fh6a%2F9081447088158%2Frazer-viper-ultimate-gallery-hero.jpg", 
+        "alt": "Ratolí gaming marca Razer",
+        "texto": "Pàgina per a comprar productes gaming: monitors, ratolins i teclats.",
+        "url": "https://github.com/sergitinez/ZonerPractica/tree/master"
     },
     {
         "id": 12,
