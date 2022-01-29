@@ -27,12 +27,12 @@
     },
      {
         "id": 4,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Adrià Sánchez i Sara Hidalgo",
+        "titulo": "Ninfa",
+        "srcimg": "https://cdn.discordapp.com/attachments/866667654475415552/935948230087307274/logo.png", 
+        "alt": "Imagen que contiene el logotipo de la  empresa. Es el contorno en negro d una flor de nenúfar.",
+        "texto": "Vneta de colonias online",
+        "url": "https://aadriasaraa.github.io/Practica2_Ninfa/"
     },
     {
         "id": 5,
