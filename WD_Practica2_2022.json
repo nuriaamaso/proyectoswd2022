@@ -45,12 +45,12 @@
     },
     {
         "id": 6,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Doae Moudden y Elena Sánchez",
+        "titulo": "Postres",
+        "srcimg": "https://images.vexels.com/media/users/3/197550/isolated/preview/e8295bb54c156b10e1409305d1c8a60d-cupcake-de-san-valentin-rosa.png", 
+        "alt": "Logo de la web. Clipart de cupcake rosa",
+        "texto": "Web de recetas de postres",
+        "url": "https://eleenasanche.github.io/postres/"
     },
     {
         "id": 7,
