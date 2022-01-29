@@ -1,11 +1,11 @@
 [{
         "id": 1,
-        "autor": "Vuestros nombres",
-        "titulo": "El titulo de vuestra práctica",
-        "srcimg": "https://afrikiudl.github.io/practicawd/img/videojuegos.831f6cd2.jpg", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Texto que describa la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Laura Aguiló i Sandra Camacho",
+        "titulo": "San & Lau Portfolio",
+        "srcimg": "https://raw.githubusercontent.com/lauraaguilo/sanlauportfolio/img/logo1.c13a4b43.jpg", 
+        "alt": "Logo del portfolio ",
+        "texto": "Portfolio creatiu de Sandra Camacho i Laura Aguiló",
+        "url": "https://lauraaguilo.github.io/sanlauportfolio/"
     },
     {
         "id": 2,
